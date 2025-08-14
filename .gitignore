@@ -50,7 +50,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+email/credentials.json
+email/token.json
 # Translations
 *.mo
 *.pot
