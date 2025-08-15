@@ -52,6 +52,8 @@ coverage.xml
 cover/
 email/credentials.json
 email/token.json
+langchain/credentials.json
+langchain/token.json
 # Translations
 *.mo
 *.pot
